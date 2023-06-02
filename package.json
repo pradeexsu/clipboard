@@ -1,0 +1,25 @@
+{
+  "name": "clipboard",
+  "version": "1.0.0",
+  "description": "an clipboard based package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeexsu/clipboard.git"
+  },
+  "keywords": [
+    "clipboard",
+    "copy",
+    "stack",
+    "queue"
+  ],
+  "author": "Pradeep Suthar <pradeexsu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pradeexsu/clipboard/issues"
+  },
+  "homepage": "https://github.com/pradeexsu/clipboard#readme"
+}
